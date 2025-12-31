@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    font-family: poppins, sans-serif;
+}
+header{
+    background-color: #212428;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header img{
+    height: 50px;
+    margin: 15px;
+}
+header h1{
+    font-weight: 400;
+    letter-spacing: 2px;
+}
